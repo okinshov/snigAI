@@ -1,6 +1,6 @@
 {
     "target_channel": "manifestgames",
-    "channels": ["manufesttrue", "gravkapp", "wtg_ua"],
+    "channels": ["manufesttrue", "oldboi_ua", "rendarosua"],
     "repost_forwards": true,
     "include_text_contains": ["Нове відео", "нове відео", "новому відео"],
     "exclude_text_contains": ["ads", "реклама"]
