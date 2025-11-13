@@ -1,5 +1,5 @@
 {
-    "target_channel": "GamesNewsReposts",
+    "target_channel": "manifestgames",
     "channels": ["manufesttrue", "oldboi_ua", "rendarosua"],
     "repost_forwards": true,
     "include_text_contains": ["Нове відео", "нове відео", "новому відео"],
