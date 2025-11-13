@@ -1,7 +1,7 @@
 {
     "target_channel": "manifestgames",
-    "channels": ["manufesttrue", "oldboi_ua", "rendarosua", "captainkaruso", "XGTV1"],
+    "channels": ["manufesttrue", "oldboi_ua", "rendarosua", "captainkaruso", "XGTV1", "gamewizua"],
     "repost_forwards": true,
-    "include_text_contains": ["Нове відео", "нове відео", "новому відео", "відео", "https://youtu.be/", "новини", "ігроновини"], 
+    "include_text_contains": ["Нове відео", "нове відео", "новому відео", "відео", "https://youtu.be/", "новини", "ігроновини", "ми зробили", "я зробив"], 
     "exclude_text_contains": ["ads", "реклама", "трейлер", "анонс"]
 }
