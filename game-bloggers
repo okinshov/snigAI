@@ -1,0 +1,7 @@
+{
+    "target_channel": "GamesNewsReposts",
+    "channels": ["steam_free_ua", "gravkapp", "wtg_ua"],
+    "repost_forwards": true,
+    "include_text_contains": ["game", "гра"],
+    "exclude_text_contains": ["ads", "реклама"]
+}
