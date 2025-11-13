@@ -1,6 +1,6 @@
 {
-    "target_channel": "@manifestgames",
-    "channels": ["manufesttrue", "oldboi_ua", "rendarosua"],
+    "target_channel": "manifestgames",
+    "channels": ["manufesttrue", "oldboi_ua", "rendarosua", "captainkaruso", "XGTV1"],
     "repost_forwards": true,
     "include_text_contains": ["Нове відео", "нове відео", "новому відео", "https://youtu.be/"], 
     "exclude_text_contains": ["ads", "реклама", "трейлер", "анонс"]
