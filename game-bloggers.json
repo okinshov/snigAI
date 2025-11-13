@@ -1,5 +1,5 @@
 {
-    "target_channel": "GamesNewsReposts",
+    "target_channel": "manufesttrue",
     "channels": ["steam_free_ua", "gravkapp", "wtg_ua"],
     "repost_forwards": true,
     "include_text_contains": ["Нове відео", "нове відео", "новому відео"],
