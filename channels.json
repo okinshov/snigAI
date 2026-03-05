@@ -41,5 +41,5 @@
 
     "repost_forwards": true,
     "include_text_contains": [], 
-    "exclude_text_contains": ["ads", "реклама",]
+    "exclude_text_contains": ["ads", "реклама"]
 }
